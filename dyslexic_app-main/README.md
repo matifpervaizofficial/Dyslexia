@@ -155,6 +155,7 @@ $ keytool -list -v -keystore "C:\Users\computer\.android\debug.keystore" -alias 
 ```
 # mr.mugy4@gmail.com
 # abdullahayaz529@gmail.com
+# matifpervaizofficial@gmail.com
 
 ```
 
